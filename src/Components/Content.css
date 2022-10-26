@@ -1,0 +1,6 @@
+.col-4 {
+    flex: 0 0 auto;
+    width: 33%;
+    padding-left: 30px;
+        padding-top: 13px;
+}
